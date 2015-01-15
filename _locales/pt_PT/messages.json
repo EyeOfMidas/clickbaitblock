@@ -1,0 +1,8 @@
+"appName": {
+    "message": "ClickBaitBlock",
+    "description": "ClickBaitBlock"
+  },
+  "appDesc": {
+    "message": "Bloqueia o seu acesso a sites clickbait", 
+    "description":"'Este homem tirou uma faca, não vai acreditar no que acontece depois!!' é um link que estamos todos cansados de ver. Estes sites não merecem a receita que fazem, considerando que a sua existência é exclusivamente para este fim, para ganhar dinheiro. Por isso, esta extensão foi feita. Ele vai parar Google Chrome de aceder estes sites, puro e simples."
+  }

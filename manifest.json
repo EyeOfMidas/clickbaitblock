@@ -9,7 +9,9 @@
     "48": "icons/icon48.png",
     "128": "icons/icon128.png"
   },
- 
+  "name": "__MSG_appName__",
+  "description": "__MSG_appDesc__",
+  "default_locale": "en",
   "offline_enabled" : false,
   "background": {
     "scripts": [ "js/list.js", "js/background.js"]
