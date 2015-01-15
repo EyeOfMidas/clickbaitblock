@@ -34,6 +34,14 @@ var clickbaits = [
 	"moviefone.com",
 	"offbeatbride.com",
 	"cheezburger.com",
-	"cracked.com"
+	"cracked.com",
+	"wimp.com",
+	"new.damn.com",
+	"damn.com",
+	"metaspoon.com",
+	"buzzfeed.com",
+	"playbuzz.com"
+	
+	
 	
 ];
