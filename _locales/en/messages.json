@@ -1,8 +1,10 @@
-"appName": {
-    "message": "ClickBaitBlock",
-    "description": "ClickBaitBlock"
-  },
-  "appDesc": {
-    "message": "Blocks you from accessing clickbait sites.", 
-    "description":"'This man took a knife out, you will not believe what happens next!!' is a link we are all tired of seeing. These sites don't deserve the revenue they make, considering their existance is for this sole purpose, to make money. Hence, this extension was made. It will block chrome from accessing these sites, plain and simple."
-  }
+{
+	"appName": {
+		"message": "ClickBaitBlock",
+		"description": "ClickBaitBlock"
+	},
+	"appDesc": {
+		"message": "Blocks you from accessing clickbait sites.", 
+		"description":"'This man took a knife out, you will not believe what happens next!!' is a link we are all tired of seeing. These sites don't deserve the revenue they make, considering their existance is for this sole purpose, to make money. Hence, this extension was made. It will block chrome from accessing these sites, plain and simple."
+	}
+}

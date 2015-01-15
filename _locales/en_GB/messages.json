@@ -1,6 +1,8 @@
-"appName": {
-    "message": "ClickBaitBlock"
-  },
-  "appDesc": {
-    "message": "Blocks you from accessing clickbait sites."
-  }
+{
+	"appName": {
+		"message": "ClickBaitBlock"
+	},
+	"appDesc": {
+		"message": "Blocks you from accessing clickbait sites."
+	}
+}
