@@ -32,7 +32,8 @@ var clickbaits = [
 	"screenrant.com",
 	"news.moviefone.com",
 	"moviefone.com",
-	"offbeatbride.com"
-	
+	"offbeatbride.com",
+	"cheezburger.com",
+	"cracked.com"
 	
 ];
