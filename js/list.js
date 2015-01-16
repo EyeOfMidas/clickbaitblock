@@ -19,6 +19,7 @@
 */
 
 var clickbaits = [	
+	"192.168.1.3",
 	"collegehumor.com",
 	"theblaze.com",
 	"iflscience.com",
@@ -44,7 +45,7 @@ var clickbaits = [
 	"clickhole.com",
 	"ijreview.com",
 	"zanzle.com",
-	"bustle.com"
+	"bustle.com",
 	"dailymail.co.uk",
 	"drudgereport.com",
 	"home.ijreview.com",
@@ -58,7 +59,8 @@ var clickbaits = [
 	"newsmax.com",
 	"tpnn.com",
 	"deadspin.com",
-	"foodbabe.com"
+	"foodbabe.com",
+	"clickhole.com"
 ];
 
 
