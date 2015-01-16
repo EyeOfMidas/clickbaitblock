@@ -19,7 +19,6 @@
 */
 
 var clickbaits = [	
-	"192.168.1.3",
 	"collegehumor.com",
 	"theblaze.com",
 	"iflscience.com",
