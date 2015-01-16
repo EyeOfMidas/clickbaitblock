@@ -42,8 +42,29 @@ var clickbaits = [
 	"buzzfeed.com",
 	"playbuzz.com",
 	"clickhole.com",
-	"www.ijreview.com",
-	"www.zanzle.com",
-	"www.bustle.com"
-	
+	"ijreview.com",
+	"zanzle.com",
+	"bustle.com"
+	"dailymail.co.uk",
+	"drudgereport.com",
+	"home.ijreview.com",
+	"thepoliticalinsider.com",
+	"ca.complex.com",
+	"collective-evolution.com",
+	"themindunleashed.org",
+	"naturalnews.com",
+	"heritage.org",
+	"conservativetribune.com",
+	"newsmax.com",
+	"tpnn.com",
+	"deadspin.com",
+	"foodbabe.com"
 ];
+
+
+
+
+
+
+
+	
