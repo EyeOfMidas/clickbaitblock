@@ -40,8 +40,10 @@ var clickbaits = [
 	"damn.com",
 	"metaspoon.com",
 	"buzzfeed.com",
-	"playbuzz.com"
-	
-	
+	"playbuzz.com",
+	"clickhole.com",
+	"www.ijreview.com",
+	"www.zanzle.com",
+	"www.bustle.com"
 	
 ];
