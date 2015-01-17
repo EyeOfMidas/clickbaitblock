@@ -60,7 +60,14 @@ var clickbaits = [
 	"deadspin.com",
 	"foodbabe.com",
 	"clickhole.com",
-	"fortafy-daily.com"
+	"fortafy-daily.com",
+	"taldisparate.net",
+	"upworthy.com",
+	"positivemed.com",
+	"viralchoka.net",
+	"moviepilot.com",
+	"vh1.com",
+	"bitecharge.com"
 ];
 
 
