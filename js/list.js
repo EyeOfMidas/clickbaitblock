@@ -69,7 +69,8 @@ var clickbaits = [
 	"vh1.com",
 	"bitecharge.com",
 	"viralfury.com",
-	"dailymotion.com"
+	"dailymotion.com",
+	"wittyfeed.com"
 ];
 
 
