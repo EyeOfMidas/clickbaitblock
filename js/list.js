@@ -70,7 +70,10 @@ var clickbaits = [
 	"bitecharge.com",
 	"viralfury.com",
 	"dailymotion.com",
-	"wittyfeed.com"
+	"wittyfeed.com",
+	"diply.com",
+	"tv.bamargera.com",
+	"bamargera.com"
 ];
 
 
