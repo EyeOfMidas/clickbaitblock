@@ -73,7 +73,19 @@ var clickbaits = [
 	"wittyfeed.com",
 	"diply.com",
 	"tv.bamargera.com",
-	"bamargera.com"
+	"bamargera.com",
+	"mytop.fm",
+	"clipuri.net",
+	"boredomtherapy.com",
+	"themighty.com",
+	"facebooknow.info",
+	"failyfailcenter.com",
+	"reshareworthy.com",
+	"twistedbeans.com",
+	"mobilelikez.com",
+	"allyourlolzarebelongtous.com",
+	"crafinot.com",
+	"hightimes.com"
 ];
 
 
