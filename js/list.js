@@ -85,13 +85,29 @@ var clickbaits = [
 	"mobilelikez.com",
 	"allyourlolzarebelongtous.com",
 	"crafinot.com",
-	"hightimes.com"
+	"hightimes.com",
+	"guff.com",
+	"bamargeraworld.com",
+	"answers.com",
+	"all-that-is-interesting.com",
+	"ranker.com",
+	"oola.com",
+	"uproxx.com",
+	"odometer.com",
+	"cheeserank.com",
+	"hellogiggles.com",
+	"topix.com",
+	"egokick.com",
+	"cafemom.com",
+	"distractify.com",
+	"memes.com",
+	"brainjet.com",
+	"emgn.com",
+	"jokemine.com",
+	"good.is",
+	"com-news.site",
+	"clipd.com",
+	"swifty.com",
+	"ratemyjob.com",
+	"poltell.com"
 ];
-
-
-
-
-
-
-
-	
