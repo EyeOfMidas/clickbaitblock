@@ -125,5 +125,5 @@ var clickbaits = [
 	"viralnow.net",
 	"lolnation.me",
 	"omgviral.net",
-	"constantlyviral.org",
+	"constantlyviral.org"
 ];
