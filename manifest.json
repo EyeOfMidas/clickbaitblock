@@ -1,6 +1,6 @@
 {
   "name": "ClickbaitBlock",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "manifest_version": 2,
   "description": "blocks you from going to a clickbait site!",
   "homepage_url": "http://github.com/medeirost",
@@ -9,8 +9,6 @@
     "48": "icons/icon48.png",
     "128": "icons/icon128.png"
   },
-  "name": "__MSG_appName__",
-  "description": "__MSG_appDesc__",
   "default_locale": "en",
   "offline_enabled" : false,
   "background": {
