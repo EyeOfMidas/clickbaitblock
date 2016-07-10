@@ -39,9 +39,7 @@ var clickbaits = [
 	"new.damn.com",
 	"damn.com",
 	"metaspoon.com",
-	"buzzfeed.com",
 	"playbuzz.com",
-	"clickhole.com",
 	"ijreview.com",
 	"zanzle.com",
 	"bustle.com",
@@ -109,5 +107,14 @@ var clickbaits = [
 	"clipd.com",
 	"swifty.com",
 	"ratemyjob.com",
-	"poltell.com"
+	"poltell.com",
+	"butthatsnoneofmybusiness.com",
+	"alot.com",
+	"www.crowdsocial.com",
+	"crowdsocial.com",
+	"rinklet.com",
+	"brilliant.org",
+	"theberry.com",
+	"chicksontheright.com",
+	"suggest.com"
 ];
